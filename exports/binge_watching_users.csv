@@ -1,0 +1,26 @@
+user_id,age,country,binge_days,binge_sessions,binge_watch_minutes,max_sessions_in_one_day,avg_binge_day_rating
+137,62,Spain,15,54,5469,6,3.54
+106,20,United Kingdom,14,47,5055,5,3.41
+429,63,United States,12,45,4734,5,3.44
+169,61,United States,12,46,4637,6,3.29
+364,50,France,12,44,4356,5,3.39
+408,24,Canada,12,41,4120,6,3.85
+505,24,South Korea,11,45,5127,6,3.7
+124,20,India,11,40,4175,5,3.1
+350,70,Brazil,11,34,4003,5,3.91
+299,40,Mexico,11,37,3782,4,3.45
+330,20,France,11,38,3779,6,3.27
+228,48,United States,11,37,3760,5,3.82
+212,30,United States,11,38,3529,5,3.77
+201,63,United States,10,39,4115,5,3.54
+281,48,India,10,37,3938,6,3.63
+19,70,India,10,40,3797,6,3.47
+444,50,United States,10,32,3736,6,3.43
+383,46,Brazil,10,39,3728,6,3.49
+373,47,South Korea,10,37,3668,6,3.46
+485,56,India,10,39,3618,6,3.27
+352,52,France,10,32,3160,4,3.25
+464,64,United States,10,30,3144,5,3.32
+468,68,United Kingdom,10,30,2914,4,3.53
+510,62,United States,9,34,3499,5,3.68
+495,69,Mexico,9,33,3448,6,3.75

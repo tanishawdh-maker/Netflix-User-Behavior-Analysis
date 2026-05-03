@@ -1,0 +1,11 @@
+genre,total_sessions,total_watch_minutes,avg_watch_duration,avg_rating
+Drama,1543,153344,99.38,3.53
+Horror,1448,143752,99.28,3.57
+Romance,1431,141840,99.12,3.55
+Crime,1344,132580,98.65,3.49
+Action,1484,145493,98.04,3.51
+Comedy,1566,152871,97.62,3.55
+Sci-Fi,1539,150090,97.52,3.5
+Documentary,1557,151642,97.39,3.52
+Thriller,1625,157757,97.08,3.56
+Animation,1463,141572,96.77,3.48
